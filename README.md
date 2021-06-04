@@ -1,8 +1,8 @@
-You're a new security guard at a school. A ghost has recently been found haunting the school, and it is your job to escape. Find your way out in this creepy horror game.
+You're a new security guard at a school. A ghost has recently been found haunting the school, and it is your job to destroy it and escape. Find your way out in this creepy horror game.
 
  **How to play:**      
  
-WASD/Left, Right, Up, Downkey - Move     
+WASD/Left, Right, Up, Down key - Move     
 
 T - Flashlight ON/OFF         
 
