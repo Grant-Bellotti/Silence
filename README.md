@@ -1,11 +1,11 @@
 You're a new security guard at a school. A ghost has recently been found haunting the school, and it is your job to escape. Find your way out in this creepy horror game.
 
  **How to play:**
-WASD/LEFT, RIGHT, UP, DOWN KEY - MOVE
-T - FLASHLIGHT ON/OFF
+WASD/Left, Right, Up, Downkey - Move
+T - Flashlight ON/OFF
 R - Reload Battery
-e - INTERACT WITH OBJECTS
-SHIFT - RUN
+E - Interact with objects
+SHIFT - Run
 C - crouch
-tab - Map (when collected)
+TAB - Map (when collected)
 J - journal (when collected)
